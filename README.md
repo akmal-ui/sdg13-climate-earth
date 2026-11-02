@@ -2,9 +2,11 @@
 
 An interactive 3D Earth for an SDG 13 (Climate Action) group presentation. The planet rotates in real time with NASA imagery, a warming map, wildfires and cyclones. Zoom close to a country and a panel shows how climate change is hitting it. A built-in presentation mode follows the course's six-part student guidelines.
 
+**Live site:** https://akmal-ui.github.io/sdg13-climate-earth/
+
 ## How to open
 
-Double-click `index.html`. It works in Chrome, Edge, Safari and Firefox with no server, no install and no internet. Internet only adds the nicer web fonts.
+Open the live site above, or download the repo and double-click `index.html`. It works in Chrome, Edge, Safari and Firefox with no server, no install and no internet. Internet only adds the nicer web fonts.
 
 To serve it locally instead:
 
